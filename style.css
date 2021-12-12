@@ -1,0 +1,26 @@
+li{
+    display: inline-block;
+    text-align: center;
+    background-color: rgb(36, 173, 36);
+    padding: 27px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+
+div ul {
+
+    background-color: blue;
+    padding-top: 5px;
+    padding: 5px;
+    padding-left: 10px;
+    
+}
+
+a{
+    padding: 10px;
+    color: white;
+    text-decoration:none;
+    font-family:serif;
+    
+}
