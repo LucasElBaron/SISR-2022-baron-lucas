@@ -1,8 +1,7 @@
 li{
     display: inline-block;
     text-align: center;
-    background-color: rgb(36, 173, 36);
-    padding: 27px;
+    background-color: rgb(34, 153, 34);
     margin-top: 5px;
     margin-bottom: 5px;
     font-size: 20px;
@@ -11,16 +10,23 @@ li{
 div ul {
 
     background-color: blue;
-    padding-top: 5px;
-    padding: 5px;
+    padding: 10px;
     padding-left: 10px;
     
 }
 
 a{
-    padding: 10px;
+    padding: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
     color: white;
     text-decoration:none;
     font-family:serif;
     
+}
+
+.bloc {
+    padding: 25px;
+    padding-left: 0px;
+    padding-right: 0px;
 }
